@@ -1,0 +1,11 @@
+dandecrosswords:
+  version: 1.x
+  css:
+    layout:
+      css/dandecrosswords.style.css: {}
+  js:
+    js/dandecrosswords.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal
+    - core/drupalSettings

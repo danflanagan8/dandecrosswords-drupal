@@ -1,0 +1,6 @@
+name: D&E Crosswords
+description: "Adds Crossword field that turns uploaded Across Lite text or puz files into playable puzzles."
+package: Custom
+type: module
+version: 1.0
+core: 8.x
